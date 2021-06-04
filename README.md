@@ -1,0 +1,2 @@
+# Linear_Regression
+ Este Notebook irá abordar de uma maneira simples e rápida, como podemos utilizar a scikit-learning para efetuar a Linear Regression, uma técnica feita para prever custos ou traçar métricas para um comportamento de vendas, ou histórico de compras de determinado produto, por exemplo. A partir dos dados e atributos oferecidos em uma entrada X que fornecerá um resultado em Y. Neste Notebook abordaremos valores de planos de saúde para diferentes idades, como meio de aplicação da intuição ao Linear Regression.
